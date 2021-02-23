@@ -18,6 +18,9 @@ public class ObscureJargon {
             case "enemycontrolglitch":
                 new EnemyControlGlitch();
                 break;
+            case "jealousy":
+                new Jealousy();
+                break;
             default:
                 System.out.println("That ain't a- y'know what, forget this.");
         }
