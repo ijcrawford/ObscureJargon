@@ -15,6 +15,9 @@ public class ObscureJargon {
             case "capturebait":
                 new captureBait();
                 break;
+            case "enemycontrolglitch":
+                new EnemyControlGlitch();
+                break;
             default:
                 System.out.println("That ain't a- y'know what, forget this.");
         }
