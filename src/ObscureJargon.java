@@ -12,6 +12,9 @@ public class ObscureJargon {
             case "warpskip":
                 new warpSkip();
                 break;
+            case "capturebait":
+                new captureBait();
+                break;
             default:
                 System.out.println("That ain't a- y'know what, forget this.");
         }
