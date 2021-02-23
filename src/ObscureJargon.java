@@ -1,0 +1,2 @@
+public class ObscureJargon {
+}
